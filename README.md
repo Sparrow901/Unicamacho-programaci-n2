@@ -1,2 +1,2 @@
-# Unicamacho-programaci-n2
+# Unicamacho-programacion2
 este espacio esta diseñado para fines educativos relacionados a programación dos
